@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Author : Me <me@foo.com>
-Date   : today
-Purpose: Rock the Casbah
+Author : Lawrence Aneshimokha 
+Date   : 5/August/2022
+Purpose: Get command-line arguments
 """
 
 import argparse
